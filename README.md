@@ -1,4 +1,4 @@
-## run this project using 'https://shiva-5010.github.io/music-app-in-react/'
+
 
 # Getting Started with Create React App
 
