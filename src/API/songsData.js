@@ -69,7 +69,7 @@ const songsData = [
     active: false,
   },
 
-  //ADD MORE HERE
+  //ADD MORE HERE..
 ];
 
 export default songsData;
